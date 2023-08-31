@@ -8,4 +8,4 @@ Inclusive, uma funcionalidade legal dele é a possíbilidade de adicionar uma fo
 
 Caso você queira ter acesso à versão Beta do aplicativo clique nesse link abaixo:
 
-[SorriaSUS apk](https://github.com/BernardooVale/SorriaSUS/blob/main/app-armeabi-v7a-release.apk)
+[SorriaSUS apk](https://drive.google.com/drive/u/1/my-drive)
