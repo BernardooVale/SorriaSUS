@@ -7,3 +7,5 @@ Ele tem como objetivo auxiliar os país a acompanhar a saúde bucal dos filhos, 
 Inclusive, uma funcionalidade legal dele é a possíbilidade de adicionar uma foto do sorriso dos seus filhos em um linha do tempo, onde, por exemplo, pode-se aconpanhar a evolução de um tratamento de correção da arcada dentária.
 
 Caso você queira ter acesso à versão Beta do aplicativo clique nesse link abaixo:
+
+[SorriaSUS apk](https://github.com/BernardooVale/SorriaSUS/blob/main/app-armeabi-v7a-release.apk)
