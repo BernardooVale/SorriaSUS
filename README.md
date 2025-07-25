@@ -8,4 +8,4 @@ Inclusive, uma funcionalidade legal dele é a possíbilidade de adicionar uma fo
 
 Caso você queira ter acesso à versão Beta do aplicativo clique nesse link abaixo:
 
-[SorriaSUS apk](https://drive.google.com/file/d/1ovrQrpb8rajivj1-ML24jBRPJlyQKqwZ/view?usp=drive_link)
+[SorriaSUS apk](https://github.com/BernardooVale/SorriaSUS/releases/download/v1.0.0/app-release.apk)
